@@ -208,4 +208,4 @@ O Revelador X-Tech não é apenas um simulador; é um portal para quem busca nã
 
 <p align="center">══════════════════════════════════════════════════════════<br>
 Desenvolvido por: [Katia Harumi Akamoto] <br>
-Bootcamp: [Caixa - IA na Prática] - DIO
+Bootcamp: [Caixa - IA na Prática] DIO
