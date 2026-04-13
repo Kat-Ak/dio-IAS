@@ -78,8 +78,26 @@ Roadmap Adaptativo: Calcula cronogramas dinâmicos divididos em "terços do temp
 
 ## 📄 **Documentação Técnica (Prompts dos Agentes)** <br>
 
- **Agent 1** 🤖 Clique aqui para ver o Prompt do ([Agent 1 - Entrevistador de Carreira](https://github.com/Kat-Ak/dio-IAS/blob/main/Agent%201%20-%20Entrevistador%20de%20Carreira)) (seu simulador inteligente de entrevistas) <br>
- **Agent 2** 🏗️ Clique aqui para ver o Prompt do ([Agent 2 - Mentor de Carreiras](https://github.com/Kat-Ak/dio-IAS/blob/main/Agent%202%20-%20Mentor%20de%20Carreiras)) (descubra seu futuro em tech)
+Para quem deseja entender "como a mágica acontece", os prompts originais que guiam nossas IAs estão disponíveis nos links abaixo. 
+
+ **Agent 1 — O Entrevistador** 🤖<br>
+> O que ele faz: **Realiza o diagnóstico e mapeia .**<br>
+> Clique aqui 👉 ([Agent 1 - Entrevistador de Carreira](https://github.com/Kat-Ak/dio-IAS/blob/main/Agent%201%20-%20Entrevistador%20de%20Carreira)) para ver o Prompt do Agente 1 <br>
+<br>
+ **Agent 2 — O Mentor** 🏗️ <br>
+> O que ele faz: **Cria seu plano de estudos e seu projeto inédito de portfólio.**<br>
+> Clique aqui 👉 ([Agent 2 - Mentor de Carreiras](https://github.com/Kat-Ak/dio-IAS/blob/main/Agent%202%20-%20Mentor%20de%20Carreiras)) para ver o Prompt do Agente 2
+
+Para quem deseja entender "como a mágica acontece", os prompts originais que guiam nossas IAs estão disponíveis nos links abaixo. 
+
+#### Agente 1 — O Entrevistador 🤖
+> **O que ele faz:** Realiza o diagnóstico e mapeia sua vantagem única.  
+> 👉 **[Clique aqui (texto azul) para ver o Prompt do Agente 1]([./Agent%201%20-%20Entrevistador%20de%20Carreira.md](https://github.com/Kat-Ak/dio-IAS/blob/main/Agent%201%20-%20Entrevistador%20de%20Carreira))**
+
+#### Agente 2 — O Mentor 🏗️
+> **O que ele faz:** Cria seu plano de estudos e seu projeto inédito de portfólio.  
+> 👉 **[Clique aqui (texto azul) para ver o Prompt do Agente 2]([./Agent%202%20-%20Mentor%20de%20Carreiras.md](https://github.com/Kat-Ak/dio-IAS/blob/main/Agent%202%20-%20Mentor%20de%20Carreiras))**
+ 
 <p align="center">══════════════════════════════════════════════════════════<br>
 
 ## 🔄 Fluxo de Funcionamento (Pipeline)
