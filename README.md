@@ -55,7 +55,9 @@ Este ecossistema foi **desenvolvido com foco na inclusão**, utilizando a *Web S
 
 O ecossistema opera em um fluxo de encadeamento (chaining) para garantir zero perda de contexto:
 
-Agent 1  |  IA Entrevistador (Diagnóstico X-Tech) 🎤
+---
+
+### Agent 1  |  IA Entrevistador (Diagnóstico X-Tech) 🎤
 ---
 <p>Realiza uma entrevista estruturada de 7 perguntas utilizando uma Matriz de Decisão Interna (0-20 pts). <br>
 Sua missão é mapear o DNA do candidato e identificar sua Vantagem Híbrida.<br>
@@ -63,7 +65,7 @@ Possui um protocolo de Convergência Comportamental e Neurodiversidade, transfor
   
 ---
   
-Agent 2  |  IA Mentor de Carreira (Arquiteto X-Tech) 🏗️
+### Agent 2  |  IA Mentor de Carreira (Arquiteto X-Tech) 🏗️
 ---
 <p>Atua como um estrategista de aprendizado. <br>
 Recebe um Payload Estruturado e gera um roadmap adaptativo e um projeto de portfólio inédito, focado em empregabilidade real. <br>
@@ -74,16 +76,10 @@ Roadmap Adaptativo: Calcula cronogramas dinâmicos divididos em "terços do temp
 
 ---
 
-Prompt dos Agentes
----
-``Agent 1`` IA Entrevistador (seu simulador inteligente de entrevistas) <br>
-IA que pergunta: Desenvolvendo o Simulador<br>
-[ANEXO1]
+## 📄 **Documentação Técnica (Prompts dos Agentes)** <br>
 
-
-``Agent 2`` IA Mentor de Carrreira (descubra seu futuro em tech) <br>
-IA que orienta: criando seu roteiro de carreira<br>
-[ANEXO2]
+ **Agent 1** 🤖 Clique aqui para ver o Prompt do Entrevistador (seu simulador inteligente de entrevistas) <br>
+ **Agent 2** 🏗️ Clique aqui para ver o Prompt do Mentor de Carreira (descubra seu futuro em tech)
 <p align="center">══════════════════════════════════════════════════════════<br>
 
 ## 🔄 Fluxo de Funcionamento (Pipeline)
