@@ -78,8 +78,8 @@ Roadmap Adaptativo: Calcula cronogramas dinâmicos divididos em "terços do temp
 
 ## 📄 **Documentação Técnica (Prompts dos Agentes)** <br>
 
- **Agent 1** 🤖 Clique aqui para ver o Prompt do Entrevistador (seu simulador inteligente de entrevistas) <br>
- **Agent 2** 🏗️ Clique aqui para ver o Prompt do Mentor de Carreira (descubra seu futuro em tech)
+ **Agent 1** 🤖 Clique aqui para ver o Prompt do ([Agent 1 - Entrevistador de Carreira](https://github.com/Kat-Ak/dio-IAS/blob/main/Agent%201%20-%20Entrevistador%20de%20Carreira)) (seu simulador inteligente de entrevistas) <br>
+ **Agent 2** 🏗️ Clique aqui para ver o Prompt do ([Agent 2 - Mentor de Carreiras](https://github.com/Kat-Ak/dio-IAS/blob/main/Agent%202%20-%20Mentor%20de%20Carreiras)) (descubra seu futuro em tech)
 <p align="center">══════════════════════════════════════════════════════════<br>
 
 ## 🔄 Fluxo de Funcionamento (Pipeline)
