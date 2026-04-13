@@ -1,4 +1,4 @@
-<h1 align="center">🤖 IAS - CARREIRA</h1>
+<h1 align="center">MAPEAMENTO DE CARREIRA👤</h1>
 </div>
 <p align="center">
   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=lightgrey&style=for-the-badge"/>
@@ -12,11 +12,10 @@
 ---
 
 
-MAPEAMENTO DE CARREIRA👤
-
-🤖 REVELADOR X-TECH: DESCUBRA-SE
+## 🤖 REVELADOR X-TECH: DESCUBRA-SE
 Pare de tentar se encaixar em uma vaga. Descubra onde a vaga se encaixa em você.
-══════════════════════════════════════════════════════════
+
+---
 Este projeto foi desenvolvido como parte de um Desafio de Projeto desenvolvido no Bootcamp Caixa - Inteligência Artificial na Prática (DIO).
 
 O Revelador X-Tech não é apenas uma IA; é um ecossistema projetado para atuar como o seu "descobridor" particular. Ele foi desenvolvido para ter uma abordagem genuinamente humana, considera você em sua plenitude, com todas as suas características, suas habilidades e seus defeitos.
