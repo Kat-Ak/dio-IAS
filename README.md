@@ -78,25 +78,15 @@ Roadmap Adaptativo: Calcula cronogramas dinâmicos divididos em "terços do temp
 
 ## 📄 **Documentação Técnica (Prompts dos Agentes)** <br>
 
-Para quem deseja entender "como a mágica acontece", os prompts originais que guiam nossas IAs estão disponíveis nos links abaixo. 
+Para quem deseja entender "como a mágica acontece", os prompts originais que guiam nossas IAs estão disponíveis nos links abaixo. <br><br>
 
- **Agent 1 — O Entrevistador** 🤖<br>
-> O que ele faz: **Realiza o diagnóstico e mapeia .**<br>
-> Clique aqui 👉 ([Agent 1 - Entrevistador de Carreira](https://github.com/Kat-Ak/dio-IAS/blob/main/Agent%201%20-%20Entrevistador%20de%20Carreira)) para ver o Prompt do Agente 1 <br>
-<br>
- **Agent 2 — O Mentor** 🏗️ <br>
-> O que ele faz: **Cria seu plano de estudos e seu projeto inédito de portfólio.**<br>
-> Para ver o Prompt clique aqui 👉 ([Agent 2 - Mentor de Carreiras](https://github.com/Kat-Ak/dio-IAS/blob/main/Agent%202%20-%20Mentor%20de%20Carreiras))
-
-Para quem deseja entender "como a mágica acontece", os prompts originais que guiam nossas IAs estão disponíveis nos links abaixo. 
-
-#### Agente 1 — O Entrevistador 🤖
+#### Agente 1 | O Entrevistador 🤖
 > **O que ele faz:** Realiza o diagnóstico e mapeia sua vantagem única.  
-> 👉 **[Clique aqui (texto azul) para ver o Prompt do Agente 1]([./Agent%201%20-%20Entrevistador%20de%20Carreira.md](https://github.com/Kat-Ak/dio-IAS/blob/main/Agent%201%20-%20Entrevistador%20de%20Carreira))**
+>  Para ver o Prompt do Entrevistador clique no texto azul sublinhado 👉([Agent 1 - Entrevistador de Carreira](https://github.com/Kat-Ak/dio-IAS/blob/main/Agent%201%20-%20Entrevistador%20de%20Carreira)) <br>
 
-#### Agente 2 — O Mentor 🏗️
+#### Agente 2 | O Mentor 🏗️
 > **O que ele faz:** Cria seu plano de estudos e seu projeto inédito de portfólio.  
-> Para ver o Prompt clique no texto azul sublinhado 👉([Agent 2 - Mentor de Carreiras](https://github.com/Kat-Ak/dio-IAS/blob/main/Agent%202%20-%20Mentor%20de%20Carreiras))
+> Para ver o Prompt do Mentor clique no texto azul sublinhado 👉([Agent 2 - Mentor de Carreiras](https://github.com/Kat-Ak/dio-IAS/blob/main/Agent%202%20-%20Mentor%20de%20Carreiras))
 <p align="center">══════════════════════════════════════════════════════════<br>
 
 ## 🔄 Fluxo de Funcionamento (Pipeline)
