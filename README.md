@@ -80,11 +80,11 @@ Roadmap Adaptativo: Calcula cronogramas dinâmicos divididos em "terços do temp
 
 Para quem deseja entender "como a mágica acontece", os prompts originais que guiam nossas IAs estão disponíveis nos links abaixo. <br><br>
 
-#### Agente 1 | O Entrevistador 🤖
+`` Agente 1 | O Entrevistador 🤖``
 > **O que ele faz:** Realiza o diagnóstico e mapeia sua vantagem única.  
->  Para ver o Prompt do Entrevistador clique no texto azul sublinhado 👉([Agent 1 - Entrevistador de Carreira](https://github.com/Kat-Ak/dio-IAS/blob/main/Agent%201%20-%20Entrevistador%20de%20Carreira)) <br>
+>  Para ver o Prompt do Entrevistador clique no texto azul sublinhado 👉([Agent 1 - Entrevistador de Carreira](https://github.com/Kat-Ak/dio-IAS/blob/main/Agent%201%20-%20Entrevistador%20de%20Carreira)) <br><br>
 
-#### Agente 2 | O Mentor 🏗️
+`` Agente 2 | O Mentor 🏗️``
 > **O que ele faz:** Cria seu plano de estudos e seu projeto inédito de portfólio.  
 > Para ver o Prompt do Mentor clique no texto azul sublinhado 👉([Agent 2 - Mentor de Carreiras](https://github.com/Kat-Ak/dio-IAS/blob/main/Agent%202%20-%20Mentor%20de%20Carreiras))
 <p align="center">══════════════════════════════════════════════════════════<br>
