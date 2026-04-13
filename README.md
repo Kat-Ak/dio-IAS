@@ -86,7 +86,7 @@ Para quem deseja entender "como a mágica acontece", os prompts originais que gu
 <br>
  **Agent 2 — O Mentor** 🏗️ <br>
 > O que ele faz: **Cria seu plano de estudos e seu projeto inédito de portfólio.**<br>
-> Clique aqui 👉 ([Agent 2 - Mentor de Carreiras](https://github.com/Kat-Ak/dio-IAS/blob/main/Agent%202%20-%20Mentor%20de%20Carreiras)) para ver o Prompt do Agente 2
+> Para ver o Prompt clique aqui 👉 ([Agent 2 - Mentor de Carreiras](https://github.com/Kat-Ak/dio-IAS/blob/main/Agent%202%20-%20Mentor%20de%20Carreiras))
 
 Para quem deseja entender "como a mágica acontece", os prompts originais que guiam nossas IAs estão disponíveis nos links abaixo. 
 
@@ -96,8 +96,7 @@ Para quem deseja entender "como a mágica acontece", os prompts originais que gu
 
 #### Agente 2 — O Mentor 🏗️
 > **O que ele faz:** Cria seu plano de estudos e seu projeto inédito de portfólio.  
-> 👉 **[Clique aqui (texto azul) para ver o Prompt do Agente 2]([./Agent%202%20-%20Mentor%20de%20Carreiras.md](https://github.com/Kat-Ak/dio-IAS/blob/main/Agent%202%20-%20Mentor%20de%20Carreiras))**
- 
+> Para ver o Prompt clique no texto azul sublinhado 👉([Agent 2 - Mentor de Carreiras](https://github.com/Kat-Ak/dio-IAS/blob/main/Agent%202%20-%20Mentor%20de%20Carreiras))
 <p align="center">══════════════════════════════════════════════════════════<br>
 
 ## 🔄 Fluxo de Funcionamento (Pipeline)
