@@ -11,10 +11,9 @@
 ### **Pare de tentar se encaixar em uma vaga. Descubra onde a vaga se encaixa em você.**
 
 <div align="center">
-
-```fix
-### 🌟 Manifesto Revelador X-Tech
-```
+<br>
+  
+> ``🌟 Manifesto Revelador X-Tech``
 > 
 > **O Revelador X-Tech não é apenas uma IA; é um ecossistema projetado para atuar como o seu "descobridor" particular.**  
 > Ele foi desenvolvido para ter uma abordagem genuinamente humana, considera você em sua plenitude, com todas as suas características, suas habilidades e seus defeitos.
