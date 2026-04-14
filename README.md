@@ -3,13 +3,14 @@
 <p align="center">
   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=lightgrey&style=for-the-badge"/>
 
+
 ---
 
 <div align="center">
 
 # 🤖 REVELADOR X-TECH: DESCUBRA-SE
-### **Pare de tentar se encaixar em uma vaga. Descubra onde a vaga se encaixa em você.**
-
+### **Pare de tentar se encaixar em uma vaga. Descubra onde a vaga se encaixa em você.**<br>
+### ✨ *Experimente! Você pode se surpreender!* ✨<br>
 <div align="center">
 <br>
   
@@ -28,6 +29,7 @@
 >
 > **Prepare-se para olhar para si mesmo(a) sob uma nova perspectiva e descobrir um mundo cheio de possibilidades inimagináveis!**  
 > **O seu futuro já está dentro de você!**
+> 
 
 ---
 
@@ -81,11 +83,11 @@ Roadmap Adaptativo: Calcula cronogramas dinâmicos divididos em "terços do temp
 Para quem deseja entender "como a mágica acontece", os prompts originais que guiam nossas IAs estão disponíveis nos links abaixo. <br><br>
 
 `` Agente 1 | O Entrevistador 🤖``
-> **O que ele faz:** Realiza o diagnóstico e mapeia sua vantagem única.  
+> **O que ele faz:** Realiza o diagnóstico técnico e mapeia seu **DNA profissional**. <br>
 >  Para ver o Prompt do Entrevistador clique no texto azul sublinhado 👉([Agent 1 - Entrevistador de Carreira](https://github.com/Kat-Ak/dio-IAS/blob/main/Agent%201%20-%20Entrevistador%20de%20Carreira)) <br><br>
 
 `` Agente 2 | O Mentor 🏗️``
-> **O que ele faz:** Cria seu plano de estudos e seu projeto inédito de portfólio.  
+> **O que ele faz:** Estrutura sua jornada e valida sua **Assinatura de Valor** no mercado.  
 > Para ver o Prompt do Mentor clique no texto azul sublinhado 👉([Agent 2 - Mentor de Carreiras](https://github.com/Kat-Ak/dio-IAS/blob/main/Agent%202%20-%20Mentor%20de%20Carreiras))
 <p align="center">══════════════════════════════════════════════════════════<br>
 
