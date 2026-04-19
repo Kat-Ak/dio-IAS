@@ -33,13 +33,59 @@
 
 ---
 
+## 🚀 Arquitetura e e Guia de Execução (Pipeline)
+
+O Revelador X-Tech opera em um fluxo de encadeamento (*chaining*) para garantir zero perda de contexto. 
+Siga o guia de ativação abaixo para assegurar máxima precisão:
+
+---
+
+### ``Fase 1:`` Diagnóstico X-Tech | Agent 1 | IA Entrevistador 🎤
+---
+
+O Agent 1 realiza uma entrevista estruturada de 7 perguntas, mapeia seu **DNA Profissional**, identifica sua **"Vantagem Híbrida"** (transforma sua área de conhecimento/interesse e traços de personalidade em ativos estratégicos) e sugere as 3 carreiras com maior *match* técnico.
+
+#### ``Como Ativar:`` <br>
+``As instruções são detalhadas e foram divididas em`` 5 partes ``para garantir que a IA processe corretamente todos os critérios de análise.`` <br><br>
+``1.`` ``Abra o arquivo`` 👉 **[Agent 1 - Entrevistador de Carreira](https://github.com/Kat-Ak/dio-IAS/blob/main/Agent%201%20-%20Entrevistador%20de%20Carreira)**.<br>
+``2.`` ``Copie e envie da`` **Parte 1 até a Parte 5** ``sequencialmente no chat da IA.``<br>
+``3.`` ``Aguarde a confirmação`` *"Parte recebida"* ``antes de enviar a próxima.``<br>
+``4.`` ``Após a última parte, o sistema iniciará a entrevista automaticamente.``<br>
+
+---
+
+### ``Fase 2:`` Protocolo de Handoff | Transição 🔄
+---
+
+Após a escolha da carreira, o Agent 1 gera um **Payload de Transferência** (pacote de dados estruturado) com prazos calculados, o perfil do candidato (*Sprinting* ou *Maratona*) e recomendações pedagógicas.
+
+---
+
+### ``Fase 3:`` Roadmap | Agent 2 | IA Mentor de Carreira (Arquiteto X-Tech) 🏗️
+---
+O Agent 2 processa o Payload, converte o diagnóstico em um **Roadmap Adaptativo** (cronogramas dinâmicos) e cria um **Projeto de Portfólio Inédito** (desafios autorais genuínos cruzando o nicho de interesse com a área tech), validando sua **Assinatura de Valor** no mercado.
+
+#### ``Como Ativar:`` <br>
+``Após concluir a entrevista e escolher sua carreira com o Agent 1:``<br>
+``1.`` ``Abra o arquivo`` 👉 **[Agent 2 - Mentor de Carreiras](https://github.com/Kat-Ak/dio-IAS/blob/main/Agent%202%20-%20Mentor%20de%20Carreiras)**.<br>
+``2.`` ``Copie o conteúdo`` completo ``e envie no`` mesmo chat ``da IA.``<br>
+``3.`` ``O Mentor processará seu diagnóstico e entregará seu plano de guerra pragmático.``<br>
+
+<p align="center">══════════════════════════════════════════════════════════</p>
+
+👉 **[Agent 1 - Entrevistador de Carreira](https://github.com/Kat-Ak/dio-IAS/blob/main/Agent%201%20-%20Entrevistador%20de%20Carreira)**.
+
+👉 **[Agent 2 - Mentor de Carreiras](https://github.com/Kat-Ak/dio-IAS/blob/main/Agent%202%20-%20Mentor%20de%20Carreiras)**.
+
+<p align="center">══════════════════════════════════════════════════════════<br>
+
 ## 🔊 Acessibilidade e Interação por Voz
 
-Este ecossistema foi **desenvolvido com foco na inclusão**, utilizando a *Web Speech API* para garantir uma experiência fluida a todos os usuários.
+Este ecossistema foi **desenvolvido com foco na inclusão**, garantindo uma experiência fluida para todos.
 
-``Interatividade`` Durante a jornada, utilize o ícone de 🎤 no navegador ou teclado para responder via comandos de voz.<br>
+``Interatividade`` Utilize o ícone de 🎤 no navegador ou teclado para responder via comandos de voz.<br>
 
-``Narração Assistida`` As perguntas do **Agent 1** e o diagnóstico do **Agent 2** podem ser narrados automaticamente, servindo como suporte essencial para pessoas com deficiência visual ou dificuldades de leitura.
+``Narração Assistida`` As perguntas do **Agent 1** e o diagnóstico do **Agent 2** podem ser narrados automaticamente, auxiliando pessoas com deficiência visual ou dificuldades de leitura.
 
 ### Guia de Interação por Voz 🎤
 
@@ -49,153 +95,89 @@ Este ecossistema foi **desenvolvido com foco na inclusão**, utilizando a *Web S
 | **Responder por Voz** | 💻 **PC** | Atalho `Win + H` (Windows) ou `Cmd + Shift + D` (Mac) |
 | **Responder por Voz** | 📱 **Mobile** | Toque no ícone de 🎤 no teclado virtual |
 
-> [!NOTE]
-> ***"Você pode interagir com este simulador usando o microfone do seu teclado ou navegador para uma experiência mais fluida e acessível."***
-<p align="center">══════════════════════════════════════════════════════════
-
-## 🚀 Arquitetura do Ecossistema
-
-O ecossistema opera em um fluxo de encadeamento (chaining) para garantir zero perda de contexto:
-
----
-
-### Agent 1  |  IA Entrevistador (Diagnóstico X-Tech) 🎤
----
-<p>Realiza uma entrevista estruturada de 7 perguntas utilizando uma Matriz de Decisão Interna (0-20 pts). <br>
-Sua missão é mapear o DNA do candidato e identificar sua Vantagem Híbrida.<br>
-Possui um protocolo de Convergência Comportamental e Neurodiversidade, transformando trajetórias anteriores e traços de neurodiversidade em ativos estratégicos para o mercado tech, tornando-o um diferencial.<br>
-  
----
-  
-### Agent 2  |  IA Mentor de Carreira (Arquiteto X-Tech) 🏗️
----
-<p>Atua como um estrategista de aprendizado. <br>
-Recebe um Payload Estruturado e gera um roadmap adaptativo e um projeto de portfólio inédito, focado em empregabilidade real. <br>
-Converte o diagnóstico (Payload de Transferência) do Agent 1 e transformar a viabilidade técnica da transição em um plano de guerra pragmático. <br>
-Roadmap Adaptativo: Calcula cronogramas dinâmicos divididos em "terços do tempo" baseados na carga horária real do usuário.<br>
-
-**Projeto de Portfólio Inédito:** Cria desafios autorais que unem a tecnologia escolhida ao nicho de mercado do candidato (HealthTech, AgTech, FinTech, etc.).
-
----
-
-## 📄 **Documentação Técnica (Prompts dos Agentes)** <br>
-
-Para quem deseja entender "como a mágica acontece", os prompts originais que guiam nossas IAs estão disponíveis nos links abaixo. <br><br>
-
-`` Agente 1 | O Entrevistador 🤖``
-> **O que ele faz:** Realiza o diagnóstico técnico e mapeia seu **DNA profissional**. <br>
->  Para ver o Prompt do Entrevistador clique no texto azul sublinhado 👉([Agent 1 - Entrevistador de Carreira](https://github.com/Kat-Ak/dio-IAS/blob/main/Agent%201%20-%20Entrevistador%20de%20Carreira)) <br><br>
-
-`` Agente 2 | O Mentor 🏗️``
-> **O que ele faz:** Estrutura sua jornada e valida sua **Assinatura de Valor** no mercado.  
-> Para ver o Prompt do Mentor clique no texto azul sublinhado 👉([Agent 2 - Mentor de Carreiras](https://github.com/Kat-Ak/dio-IAS/blob/main/Agent%202%20-%20Mentor%20de%20Carreiras))
 <p align="center">══════════════════════════════════════════════════════════<br>
-
-## 🔄 Fluxo de Funcionamento (Pipeline)
-<br>
-
-``1. Fase de Diagnóstico`` 
-
-O Agent 1 mapeia o DNA do candidato, identifica sua "Vantagem Híbrida" e sugere as 3 carreiras com maior match técnico e de mercado.
-<br><br>
-
-``2. Protocolo de Handoff`` 
-
-Após a escolha da carreira pelo candidato, o Agent 1 gera um Payload de Transferência (pacote de dados estruturado) com prazos calculados, recomendações pedagógicas e o perfil do candidato (Sprinting ou Maratona).
-<br><br>
-
-``3. Entrega do Roteiro`` 
-
-O Agent 2 processa o Payload e entrega um roadmap completo, incluindo visão do dia a dia, mapa de skills, projeto de portfólio inédito e sugestão de trilha na plataforma DIO.me.
-
----
 
 ## 📈 Diferenciais Estratégicos e Metodologia
 
 <p> Diferente de orientações genéricas, este projeto implementa camadas de inteligência de negócio e pedagogia avançada:<br>
 <br>
   
-``1. Estratégia X-Tech (Nicho Contextualizado)``
+#### ``1. Estratégia X-Tech (Nicho Contextualizado)``
 
-O sistema não sugere apenas uma carreira isolada, mas a contextualiza ao setor de origem do usuário (DOMÍNIO X + TECH).
+O sistema não sugere apenas uma carreira isolada, mas a contextualiza ao setor de interesse do usuário (DOMÍNIO X + TECH).
 
 Exemplo: Saúde → HealthTech | Agronegócio → AgTech.
 
-<p> **Impacto:** Transforma a bagagem anterior em diferencial competitivo, reduzindo a sensação de "começar do zero".<br>
+**Impacto:** **Transforma o conhecimento em diferencial competitivo.** <br>
 
 <br>
 
-``2. Payload de Handoff Blindado``
+#### ``2. Payload de Handoff Blindado``
 
 Implementação de um objeto de dados estruturado para a transição entre agentes, garantindo 100% de consistência.
 
-<p> **Variáveis Transmitidas:** Carreira, Nicho, Disponibilidade (P3), Vantagem Híbrida (P7), Estilo de Trabalho e Recomendação Pedagógica.<br>
+**Variáveis Transmitidas:** **Carreira, Nicho, Disponibilidade (P3), Vantagem Híbrida (P7), Estilo de Trabalho e Recomendação Pedagógica.** <br>
 
 <br>
 
-``3. Matriz de Realismo Pedagógico e Anti-Burnout``
+#### ``3. Matriz de Realismo Pedagógico e Anti-Burnout``
 
 O roadmap é ajustado dinamicamente à carga horária real, com travas de segurança:
 
-<10h/semana: Ativa o selo "⚠️ MARATONA TECH" (foco em micro-conquistas).
+``< 10h/semana``: Ativa o selo **"⚠️ MARATONA TECH"** (foco em micro-conquistas).
 
->60h/semana: Aplica teto de 44h para evitar burnout e garantir sustentabilidade.
+*** 🚨``> 60h/semana``: Aplica **teto de 44h** para evitar burnout e garantir sustentabilidade. ***
 
-<p>**Cálculo Proporcional:** O cronograma é dividido em terços (Alicerce, Execução, Especialização) baseados no prazo real de conclusão.<br>
+**Cálculo Proporcional:** **O cronograma é dividido em terços (Alicerce, Execução, Especialização) baseados no prazo real de conclusão.** <br>
 
 <br>
   
-``4. Protocolo de Convergência Ética``
+#### ``4. Protocolo de Convergência Ética``
 
-A IA atua como uma "lente de aumento" para o potencial humano. Características de Neurodiversidade (TDAH, Autismo) ou perfis comportamentais são processados e traduzidos em Atributos Estratégicos de mercado (ex: Hiperfoco -> Deep Work).
+A IA atua como uma "lente de aumento" para o potencial humano. Características de Neurodiversidade ou perfis comportamentais são processados e traduzidos em Atributos Estratégicos de mercado (ex: Hiperfoco -> Deep Work).
 
 ---
 
 ## 🛠️ Evolução e Métricas <br>
 
 ### **Melhoria Implementada** <br>
-<br>
 
-``1. Trava de Segurança``
+#### ``1. Trava de Segurança``
 
-**Descrição Técnica:** Controle de fluxo "uma pergunta por vez".<br>
-**Impacto no Usuário:** Experiência fluida e dados de alta qualidade.
+#### Descrição Técnica: **Controle de fluxo "uma pergunta por vez".**
+#### Impacto no Usuário: **Experiência fluida e dados de alta qualidade.**<br><br>
 
-<br>
+#### ``2. Matriz de Decisão``
 
-``2. Matriz de Decisão``
+#### Descrição Técnica: **Sistema de pesos (40% Técnico, 30% Comportamental, 30% Viabilidade).** 
+#### Impacto no Usuário: **Sugestões assertivas e realistas.**<br><br>
 
-**Descrição Técnica:** Sistema de pesos (40% Técnico, 30% Comportamental, 30% Viabilidade).<br>
-**Impacto no Usuário:** Sugestões assertivas e realistas.
+#### ``3. Projeto Inédito``
 
-<br>
-
-``3. Projeto Inédito``
-
-**Descrição Técnica:** Invenção de portfólio baseado no nicho X-Tech.<br>
-**Impacto no Usuário:** Saída de projetos clichês para soluções reais.
+#### Descrição Técnica: **Invenção de portfólio baseado no nicho X-Tech.** 
+#### Impacto no Usuário: **Saída de projetos clichês para soluções reais.**
 
 ---
 
 ## 📊 Performance do Ecossistema
 
-``Consistência de Respostas`` 95% (vs 60% em prompts genéricos).
+#### ``Consistência de Respostas`` 95% (vs 60% em prompts genéricos).
 
-``Taxa de Handoff`` 100% (zero perda de contexto via Payload).
+#### ``Taxa de Handoff`` 100% (zero perda de contexto via Payload).
 
-``Escalabilidade`` Suporte a 20+ carreiras e infinitas combinações de nichos.
+#### ``Escalabilidade`` Suporte a 20+ carreiras e infinitas combinações de nichos.
 
 ---
 
 ## 🧠 Diferenciais Técnicos (Prompt Engineering)
 
-``Chain-of-Thought (CoT)`` Raciocínio em etapas para cálculos precisos e ramp-up.
+#### ``Chain-of-Thought (CoT)`` Raciocínio em etapas para cálculos precisos e ramp-up.
 
-``Context Awareness`` Manutenção do tom de voz conforme o objetivo (Transição, 1º Emprego ou Upgrade).
+#### ``Context Awareness`` Manutenção do tom de voz conforme o objetivo (Transição, 1º Emprego ou Upgrade).
 
-``Contract-First Design`` Garantia de que a saída do primeiro agente seja a entrada perfeita para o segundo.
+#### ``Contract-First Design`` Garantia de que a saída do primeiro agente seja a entrada perfeita para o segundo.
 
-``Personalização Dinâmica`` Adaptação de linguagem e substantivos conforme o perfil (Habilidade vs. Trajetória).
+#### ``Personalização Dinâmica`` Adaptação de linguagem e substantivos conforme o perfil (Habilidade vs. Trajetória).
 
 <p align="center">══════════════════════════════════════════════════════════<br>
 
